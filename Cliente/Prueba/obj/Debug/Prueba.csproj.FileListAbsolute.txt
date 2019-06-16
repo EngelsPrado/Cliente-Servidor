@@ -1,0 +1,35 @@
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\bin\Debug\Prueba.exe.config
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\bin\Debug\Prueba.exe
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\bin\Debug\Prueba.pdb
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.exe
+c:\users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\_ranks\documents\visual studio 2015\Projects\Prueba\Prueba\obj\Debug\Prueba.Insertar.resources
+G:\Prueba\Prueba\bin\Debug\Prueba.exe.config
+G:\Prueba\Prueba\obj\Debug\Prueba.exe
+G:\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Insertar.resources
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Ronnie\Pictures\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.pdb
+G:\Ediciones\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.exe.config
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.exe
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.pdb
+G:\Ediciones\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.exe
+G:\Ediciones\Prueba (1)\Prueba\Prueba\bin\Debug\Prueba.pdb
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Insertar.resources
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Eliminar.resources
+G:\Ediciones\Prueba (1)\Prueba\Prueba\obj\Debug\Prueba.Mostrar.resources
